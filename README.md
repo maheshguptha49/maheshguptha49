@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume ](https://www.canva.com/design/DAEmx5BuMVs/347rak0qEbZJzGTrgYFlWw/view?utm_content=DAEmx5BuMVs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-- ⚡ Fun fact **I would love to change the world But they won't give me the source code!**
+- ⚡ Fun fact **I can center a div!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
