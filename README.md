@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maheshguptha49/Portfolio](https://github.com/maheshguptha49/Portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-lilac-sigma.vercel.app/](https://portfolio-lilac-sigma.vercel.app/)
 
 - 💬 Ask me about **Javascript**
 
