@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Guptha</h1>
-<h3 align="center">Passionate about development, Love problem solving Aspiring Full Stack Web Developer</h3>
+<h3 align="center">I am a passionate developer ,I love solving problems, I am an Aspiring Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshguptha49&label=Profile%20views&color=0e75b6&style=flat" alt="maheshguptha49" /> </p>
 
